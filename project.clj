@@ -1,4 +1,4 @@
-(defproject com.andrewmcveigh/plugin-jquery "2.0.3"
+(defproject com.andrewmcveigh/plugin-jquery "2.0.3-json2"
   :description "JQuery packaged as Servlet 3.0 plugin."
   :url "https://github.com/andrewmcveigh/plugin-jquery"
   :license {:name "Eclipse Public License"
